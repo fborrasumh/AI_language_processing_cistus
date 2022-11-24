@@ -1,4 +1,6 @@
 article
+abstract
+avail
 articles
 interview
 interviewing
