@@ -1,6 +1,6 @@
 article
 abstract
-avail
+available
 articles
 interview
 interviewing
